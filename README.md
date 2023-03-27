@@ -1,6 +1,6 @@
 # BodyFat Predictor: A Machine Learning Analysis
 
-![AI](images/Runner ML.jpg)
+![AI](images/Run.jpg)
 
 This project is a demonstration of how to use random forest regression to predict body fat percentage. The dataset used in this project is the Body Fat Percentage dataset from Kaggle, which contains 252 observations of male individuals with various body measurements and their corresponding body fat percentages.
 

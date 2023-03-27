@@ -1,4 +1,4 @@
-# Body Fat Percentage Prediction using Random Forest Regression
+# Body Fat Percentage Prediction
 
 This project is a demonstration of how to use random forest regression to predict body fat percentage. The dataset used in this project is the Body Fat Percentage dataset from Kaggle, which contains 252 observations of male individuals with various body measurements and their corresponding body fat percentages.
 
@@ -45,7 +45,9 @@ The analysis and modeling process is as follows:
 - Model Development
 - Model Evaluation and Validation
 
-The selected model for this project is Random Forest Regression. Model performance is evaluated using Mean Absolute Error (MAE), Mean Squared Error (MSE), and R-squared. A residual analysis is performed to check the assumptions of the model. The model is then validated using k-fold cross-validation and grid search to test different hyperparameters.
+For model development, we explored four different regression techniques: **linear regression, random forest regression, decision tree regression, and Bayesian analysis**. After comparing the performance of these models using various metrics, we found that the random forest regression outperformed the others, and thus selected it as our final model.
+
+Model performance is evaluated using Mean Absolute Error (MAE), Mean Squared Error (MSE), and R-squared. A residual analysis is performed to check the assumptions of the model. The model is then validated using k-fold cross-validation and grid search to test different hyperparameters.
 
 ## Results
 
@@ -53,4 +55,4 @@ The final model achieved a mean absolute error of 0.1570 on the test set. The be
 
 ## Conclusion
 
-Random forest regression is an effective method for predicting body fat percentage based on various body measurements. The default hyperparameters provided by scikit-learn's RandomForestRegressor function work well for this dataset. Further research could explore other regression techniques and feature engineering methods to improve model performance.
+Predicting body fat percentage using machine learning is an important and challenging problem. Random forest regression is an effective method for this task and can be used to predict body fat percentage based on various body measurements. Further research could explore other regression techniques and feature engineering methods to improve model performance.

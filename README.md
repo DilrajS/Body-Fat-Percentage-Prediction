@@ -26,16 +26,16 @@ The Body Fat Percentage dataset contains 252 observations and 17 variables. The 
 - Age: Age in years
 - Weight: Weight in pounds
 - Height: Height in inches
-- Neck: Neck circumference in inches
-- Chest: Chest circumference in inches
-- Abdomen: Abdomen circumference in inches
-- Hip: Hip circumference in inches
-- Thigh: Thigh circumference in inches
-- Knee: Knee circumference in inches
-- Ankle: Ankle circumference in inches
-- Biceps: Biceps (extended) circumference in inches
-- Forearm: Forearm circumference in inches
-- Wrist: Wrist circumference in inches
+- Neck: Neck circumference in cm
+- Chest: Chest circumference in cm
+- Abdomen: Abdomen circumference in cm
+- Hip: Hip circumference in cm
+- Thigh: Thigh circumference in cm
+- Knee: Knee circumference in cm
+- Ankle: Ankle circumference in cm
+- Biceps: Biceps (extended) circumference in cm
+- Forearm: Forearm circumference in cm
+- Wrist: Wrist circumference in cm
 
 ## Analysis
 

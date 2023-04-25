@@ -58,3 +58,7 @@ The final model achieved a mean absolute error of 0.1570 on the test set. The be
 ## Conclusion
 
 Predicting body fat percentage using machine learning is an important and challenging problem. Random forest regression is an effective method for this task and can be used to predict body fat percentage based on various body measurements. Further research could explore other regression techniques and feature engineering methods to improve model performance.
+
+## Future Work
+
+In the future, if I work on this project again, I would like to find a better dataset because the current dataset turned out to be too small. While working on this project, I learned various techniques, such as pruning a decision tree, but having more data will lead to less overtraining and better results. Therefore, using a larger and more diverse dataset can help improve the accuracy of the model. Additionally, exploring other feature engineering methods and regression techniques could also help improve the performance of the model.
